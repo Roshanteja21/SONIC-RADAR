@@ -2,5 +2,5 @@
 Processing app link :https://processing.org/download/
 
 #**Circuit Diagram**
-![image](https://user-images.githubusercontent.com/76561059/115998571-756c2100-a605-11eb-9843-bd4cf191e651.png)
+![image](https://user-images.githubusercontent.com/76561059/115999416-448deb00-a609-11eb-87e2-52d4dc27b54d.png)
 
